@@ -1,0 +1,24 @@
+{
+  "name": "dixby-node-app",
+  "version": "1.0.0",
+  "description": "dixby my personal assitant",
+  "main": "dixby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kongle989/dixby-node-app.git"
+  },
+  "author": "Kong Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kongle989/dixby-node-app/issues"
+  },
+  "homepage": "https://github.com/Kongle989/dixby-node-app#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  }
+}
